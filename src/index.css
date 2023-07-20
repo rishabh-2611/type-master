@@ -1,0 +1,12 @@
+#root {
+  font-family: Poppins;
+}
+
+body {
+  /* background-image: url('../public/images/background.jpeg'); */
+}
+
+.btn {
+    border-radius: 5px !important;
+}
+
