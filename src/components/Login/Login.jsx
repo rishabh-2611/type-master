@@ -42,7 +42,7 @@ function Login() {
   return (
     <>
     {showAlert && <Alert message={alertMessage} type={alertType}/>}
-    <div className="container min-vh-100 d-flex justify-content-center align-items-center">
+    <div className="container d-flex justify-content-center align-items-center" style={{height:'95vh'}}>
       <div className="row text-center">
         <div className="container-fluid">
           <img width="128" height="128" src={typing}/>
