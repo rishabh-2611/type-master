@@ -60,7 +60,7 @@ function Login() {
         </div>
       </div>
     </div>
-    <div className="sticky-bottom text-center text-muted">Made with <span style={{color:'#dc3545', fontSize: '21px'}}>♥</span> by R & N</div>
+    <div className="sticky-bottom text-center text-muted">Made with <span style={{color:'#dc3545', fontSize: '21px'}}>♥</span> by Rishabh</div>
     </>
   )
 }
